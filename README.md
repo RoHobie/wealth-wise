@@ -37,4 +37,4 @@ A responsive, modern web application that helps users plan and track their finan
    ```bash
    npm i
 
-3. add an API key via creating an .env.local file
+3. add an API key via creating an .env.local file in the root folder, and you're all set. ;)
