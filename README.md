@@ -2,8 +2,6 @@
 
 A responsive, modern web application that helps users plan and track their financial goals with AI-powered recommendations.
 
-![Financial Goal Planner Demo](https://placeholder.svg?height=400&width=800)
-
 ## Features
 
 - **Dark/Light Mode**: Toggle between dark and light themes based on your preference
@@ -32,3 +30,9 @@ A responsive, modern web application that helps users plan and track their finan
    ```bash
    git clone https://github.com/yourusername/financial-goal-planner.git
    cd financial-goal-planner
+
+2. run the command:
+   ```bash
+   npm i
+
+3. add an API key via creating an .env.local file
