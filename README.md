@@ -1,7 +1,8 @@
 # AI Financial Goal Planner
 
 A responsive, modern web application that helps users plan and track their financial goals with AI-powered recommendations.
-try it out: https://wealth-wise-five.vercel.app/
+
+**try it out:** https://wealth-wise-five.vercel.app/
 
 ## Features
 
